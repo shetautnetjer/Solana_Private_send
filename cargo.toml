@@ -1,0 +1,4 @@
+[dependencies]
+anchor-lang = "0.26.0"
+light-protocol = "0.3.0" # Replace with the latest version available
+rand = "0.8" # For randomness generation (optional)
